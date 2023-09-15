@@ -1,1 +1,3 @@
-# ML_Apache_Pipeline_Final_Project
+# ML Apache Pipeline Final Project
+
+The repository created for Data Engineer assignment by IBM
